@@ -1,0 +1,5 @@
+com.infolaft.shared.test.shared-androidTest-0 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/build/generated/res/resValues/androidTest/debug
+com.infolaft.shared.test.shared-mergeDebugAndroidTestResources-1 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.infolaft.shared.test.shared-mergeDebugAndroidTestResources-2 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.infolaft.shared.test.shared-merged_res-3 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/build/intermediates/merged_res/debugAndroidTest
+com.infolaft.shared.test.shared-packaged_res-4 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/build/intermediates/packaged_res/debug

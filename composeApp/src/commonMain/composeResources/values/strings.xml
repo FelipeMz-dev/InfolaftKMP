@@ -1,0 +1,26 @@
+<resources>
+    <string name="copy_email">Correo electronico</string>
+    <string name="copy_company_code">Codigo de empresa</string>
+    <string name="copy_continue">Continuar</string>
+    <string name="copy_login">Login</string>
+    <string name="copy_digital_guide">Guía digital</string>
+    <string name="copy_compliance_story">Historia del compliance,\n100 objetos 100 lecciones</string>
+    <string name="copy_welcome_app">Bienvenido al App de la Expocapacitación. Usted podrá entrar en las bóvedas de la historia y abrir las maletas que marcaron los sucesos más importantes. Como viajero del tiempo podrá llevarse un conocimiento muy valioso y cambiar el futuro.</string>
+    <string name="copy_short_guide">Guía corta</string>
+    <string name="copy_full_guide">Guía completa</string>
+    <string name="copy_practical_guide">Guía práctica:</string>
+    <string name="copy_how_travel_ask">¿Cómo recorrer la exposición?</string>
+    <string name="copy_how_travel_answer">La exposición tiene un orden preestablecido para entenderla con más claridad.\nSe divide en siete áreas, definidas por un círculo de color ubicado frente a cada una.</string>
+    <string name="copy_map_expocapacitacion">Mapa expocapacitación</string>
+    <string name="copy_here_is_you_map">Aquí tendrá el mapa de la expocapacitación</string>
+    <string name="copy_recommendations">Recomendaciones</string>
+    <string name="copy_dont_touch">Favor no tocar ningún elemento de la exposición.</string>
+    <string name="copy_is_agree_photos">Está permitido tomar fotografías. En caso de ser publicadas en redes sociales favor etiquetar a @infolaftexpo</string>
+    <string name="copy_museum_address">Jockey Club\nCra. 4 #72-54, Bogotá</string>
+    <string name="copy_infolaft_email">comunicaciones@infolaft.com</string>
+    <string name="copy_infolaft_copyright">© 2035 Creado por Infolaft SAS</string>
+    <string name="copy_direct_to_circle">Diríjase al círculo %1$s ubicado en\nel piso y oprima el siguiente botón</string>
+    <string name="copy_press_circle_finish">Oprima el siguiente botón para\nfinalizar el recorrido</string>
+    <string name="copy_travel_finish">FINALIZAR RECORRIDO</string>
+    <string name="copy_loading">Cargando...</string>
+</resources>

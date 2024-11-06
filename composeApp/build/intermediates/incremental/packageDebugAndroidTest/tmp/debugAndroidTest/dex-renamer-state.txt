@@ -1,0 +1,4 @@
+#Mon Sep 30 15:53:06 COT 2024
+base.0=/home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

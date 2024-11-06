@@ -1,0 +1,4 @@
+com.infolaft.test.composeApp-androidTest-0 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/build/generated/res/resValues/androidTest/debug
+com.infolaft.test.composeApp-mergeDebugAndroidTestResources-1 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.infolaft.test.composeApp-mergeDebugAndroidTestResources-2 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.infolaft.test.composeApp-merged_res-3 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/build/intermediates/merged_res/debugAndroidTest

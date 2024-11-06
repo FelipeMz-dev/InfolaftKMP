@@ -1,0 +1,8 @@
+com.infolaft.shared-pngs-0 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/build/generated/res/pngs/release
+com.infolaft.shared-resValues-1 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/build/generated/res/resValues/release
+com.infolaft.shared-mergeReleaseResources-2 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.infolaft.shared-mergeReleaseResources-3 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.infolaft.shared-merged_res-4 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/build/intermediates/merged_res/release
+com.infolaft.shared-androidMain-5 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/src/androidMain/res
+com.infolaft.shared-main-6 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/src/main/res
+com.infolaft.shared-release-7 /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/src/release/res

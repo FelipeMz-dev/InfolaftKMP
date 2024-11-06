@@ -1,0 +1,154 @@
+{
+  "projectStructure": {
+    "formatVersion": "0.3.3",
+    "isPublishedAsRoot": "true",
+    "variants": [
+      {
+        "name": "iosArm64ApiElements",
+        "sourceSet": [
+          "iosMain",
+          "appleMain",
+          "nativeMain",
+          "commonMain"
+        ]
+      },
+      {
+        "name": "iosSimulatorArm64ApiElements",
+        "sourceSet": [
+          "iosMain",
+          "appleMain",
+          "nativeMain",
+          "commonMain"
+        ]
+      },
+      {
+        "name": "iosX64ApiElements",
+        "sourceSet": [
+          "iosMain",
+          "appleMain",
+          "nativeMain",
+          "commonMain"
+        ]
+      }
+    ],
+    "sourceSets": [
+      {
+        "name": "appleMain",
+        "dependsOn": [
+          "nativeMain"
+        ],
+        "moduleDependency": [
+          "org.jetbrains.kotlin:kotlin-stdlib",
+          "org.jetbrains.compose.runtime:runtime",
+          "org.jetbrains.compose.foundation:foundation",
+          "org.jetbrains.compose.material:material",
+          "org.jetbrains.compose.ui:ui",
+          "org.jetbrains.compose.components:components-resources",
+          "org.jetbrains.compose.components:components-ui-tooling-preview",
+          "InfolaftAppkmp:shared",
+          "cafe.adriel.voyager:voyager-navigator",
+          "cafe.adriel.voyager:voyager-transitions",
+          "cafe.adriel.voyager:voyager-tab-navigator",
+          "io.coil-kt.coil3:coil-compose",
+          "io.coil-kt.coil3:coil-network-ktor",
+          "io.ktor:ktor-client-core",
+          "io.ktor:ktor-client-content-negotiation",
+          "io.ktor:ktor-serialization-kotlinx-json",
+          "io.ktor:ktor-client-logging",
+          "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
+          "io.insert-koin:koin-bom",
+          "io.insert-koin:koin-core",
+          "io.insert-koin:koin-compose",
+          "io.insert-koin:koin-compose-viewmodel",
+          "org.jetbrains.kotlinx:kotlinx-datetime",
+          "androidx.room:room-runtime",
+          "androidx.sqlite:sqlite-bundled"
+        ],
+        "sourceSetCInteropMetadataDirectory": "appleMain-cinterop",
+        "binaryLayout": "klib",
+        "hostSpecific": "true"
+      },
+      {
+        "name": "commonMain",
+        "dependsOn": [],
+        "moduleDependency": [
+          "org.jetbrains.kotlin:kotlin-stdlib"
+        ],
+        "binaryLayout": "klib"
+      },
+      {
+        "name": "iosMain",
+        "dependsOn": [
+          "appleMain"
+        ],
+        "moduleDependency": [
+          "org.jetbrains.kotlin:kotlin-stdlib",
+          "org.jetbrains.compose.runtime:runtime",
+          "org.jetbrains.compose.foundation:foundation",
+          "org.jetbrains.compose.material:material",
+          "org.jetbrains.compose.ui:ui",
+          "org.jetbrains.compose.components:components-resources",
+          "org.jetbrains.compose.components:components-ui-tooling-preview",
+          "InfolaftAppkmp:shared",
+          "cafe.adriel.voyager:voyager-navigator",
+          "cafe.adriel.voyager:voyager-transitions",
+          "cafe.adriel.voyager:voyager-tab-navigator",
+          "io.coil-kt.coil3:coil-compose",
+          "io.coil-kt.coil3:coil-network-ktor",
+          "io.ktor:ktor-client-core",
+          "io.ktor:ktor-client-content-negotiation",
+          "io.ktor:ktor-serialization-kotlinx-json",
+          "io.ktor:ktor-client-logging",
+          "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
+          "io.insert-koin:koin-bom",
+          "io.insert-koin:koin-core",
+          "io.insert-koin:koin-compose",
+          "io.insert-koin:koin-compose-viewmodel",
+          "org.jetbrains.kotlinx:kotlinx-datetime",
+          "androidx.room:room-runtime",
+          "androidx.sqlite:sqlite-bundled",
+          "io.ktor:ktor-client-ios"
+        ],
+        "sourceSetCInteropMetadataDirectory": "iosMain-cinterop",
+        "binaryLayout": "klib",
+        "hostSpecific": "true"
+      },
+      {
+        "name": "nativeMain",
+        "dependsOn": [
+          "commonMain"
+        ],
+        "moduleDependency": [
+          "org.jetbrains.kotlin:kotlin-stdlib",
+          "org.jetbrains.compose.runtime:runtime",
+          "org.jetbrains.compose.foundation:foundation",
+          "org.jetbrains.compose.material:material",
+          "org.jetbrains.compose.ui:ui",
+          "org.jetbrains.compose.components:components-resources",
+          "org.jetbrains.compose.components:components-ui-tooling-preview",
+          "InfolaftAppkmp:shared",
+          "cafe.adriel.voyager:voyager-navigator",
+          "cafe.adriel.voyager:voyager-transitions",
+          "cafe.adriel.voyager:voyager-tab-navigator",
+          "io.coil-kt.coil3:coil-compose",
+          "io.coil-kt.coil3:coil-network-ktor",
+          "io.ktor:ktor-client-core",
+          "io.ktor:ktor-client-content-negotiation",
+          "io.ktor:ktor-serialization-kotlinx-json",
+          "io.ktor:ktor-client-logging",
+          "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
+          "io.insert-koin:koin-bom",
+          "io.insert-koin:koin-core",
+          "io.insert-koin:koin-compose",
+          "io.insert-koin:koin-compose-viewmodel",
+          "org.jetbrains.kotlinx:kotlinx-datetime",
+          "androidx.room:room-runtime",
+          "androidx.sqlite:sqlite-bundled"
+        ],
+        "sourceSetCInteropMetadataDirectory": "nativeMain-cinterop",
+        "binaryLayout": "klib",
+        "hostSpecific": "true"
+      }
+    ]
+  }
+}

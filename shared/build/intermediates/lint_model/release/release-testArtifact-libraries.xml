@@ -1,0 +1,23 @@
+<libraries>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib:2.0.0@jar"
+      jars="/home/felipemz/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.0.0/b48df2c4aede9586cc931ead433bc02d6fd7879e/kotlin-stdlib-2.0.0.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:2.0.0"/>
+  <library
+      name="org.jetbrains:annotations:13.0@jar"
+      jars="/home/felipemz/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+      resolved="org.jetbrains:annotations:13.0"/>
+  <library
+      name=":@@:shared::release"
+      jars="/home/felipemz/.gradle/caches/transforms-4/bcd2c8a60a0e97e29af1de9b327f0184/transformed/out/jars/classes.jar:/home/felipemz/.gradle/caches/transforms-4/bcd2c8a60a0e97e29af1de9b327f0184/transformed/out/jars/libs/R.jar"
+      resolved="InfolaftAppkmp:shared:unspecified"
+      folder="/home/felipemz/.gradle/caches/transforms-4/bcd2c8a60a0e97e29af1de9b327f0184/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

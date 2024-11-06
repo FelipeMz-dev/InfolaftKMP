@@ -1,0 +1,440 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:2:1-25:12
+MERGED from [io.insert-koin:koin-android:4.0.0-RC2] /home/felipemz/.gradle/caches/transforms-4/d6d46139f585e07c39858a9a4469e14f/transformed/koin-android-4.0.0-RC2/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt.coil3:coil-network-ktor-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/c86be1c4a3a1588bebe28814fcea7520/transformed/coil-network-ktor-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt.coil3:coil-compose-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/1f673705f14cd781f1bb4a385124af01/transformed/coil-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt.coil3:coil-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/323d56096b09967ebfbea0c5f4e7f8bb/transformed/coil-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt.coil3:coil-compose-core-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/ba2987463c5ccfdc8a0315bdf41d0b83/transformed/coil-compose-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt.coil3:coil-network-core-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/3677e68de420f2625efe3a15c715e4c2/transformed/coil-network-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt.coil3:coil-core-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/d88fb4569e2a2fca93f2de835969cb73/transformed/coil-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/felipemz/.gradle/caches/transforms-4/17a2412161659890eb72e03441ea0904/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/felipemz/.gradle/caches/transforms-4/377f1d5e77144326f005be0fedc26f10/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.8.2] /home/felipemz/.gradle/caches/transforms-4/3b595be032a2b53e497f6a3597a6d390/transformed/fragment-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.8.2] /home/felipemz/.gradle/caches/transforms-4/d61ea007c1f4fa9403eac8f557462613/transformed/fragment-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.2] /home/felipemz/.gradle/caches/transforms-4/1214195fc80a75a1e8fc4f4cd2c4ab31/transformed/activity-1.9.2/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.11] /home/felipemz/.gradle/caches/transforms-4/321755c89324fef9fd3c8432c95283fe/transformed/library-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/5d2d78bca4370e6d3f7a3b164e2d67f5/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/c2be85b2ca84e7030c79e7a9671e0d28/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/b3b09946db771dfce8561f8cc1820616/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/5cb01b3cca2e1a0ad4aa09e94eaba990/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/0cf42963c302b53a5c47d128044eea0c/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/e9fbffadf965d9b1df7fa2185bdff6d5/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/27df553f67438efeaec4790ccb25de71/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/4b51d91d94bb8cd8692b62c2a5689fac/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/1171c3cecd39dd4a206878b9750d0403/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/36aa32ceb615004b07ccaf901188f21b/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/de476189511dd346f4e68fae86cf8fdd/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/f2a93df4ff9c2e66fe3c89e1d99e5bbd/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/794d3d547e43bb8673a9e5a460504611/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/cb9e19619acc8ae2a2d70bdd0cb20af4/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/b3d6d1669807e599f7f71945fc8d18c3/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.34.0] /home/felipemz/.gradle/caches/transforms-4/1f254c36a3a1deffd8112323006ea423/transformed/accompanist-drawablepainter-0.34.0/AndroidManifest.xml:17:1-23:12
+MERGED from [cafe.adriel.voyager:voyager-transitions-android:1.1.0-beta02] /home/felipemz/.gradle/caches/transforms-4/1026cf50e6312b0e939a9d7f36b18e11/transformed/voyager-transitions-release/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-tab-navigator-android:1.1.0-beta02] /home/felipemz/.gradle/caches/transforms-4/415e6eabeaea6dbe0659f9a9ca917f1f/transformed/voyager-tab-navigator-release/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-navigator-android:1.1.0-beta02] /home/felipemz/.gradle/caches/transforms-4/c3293475f7ab9a289580f68e99be0b84/transformed/voyager-navigator-release/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-core-android:1.1.0-beta02] /home/felipemz/.gradle/caches/transforms-4/d746645594aaa99507015d1413ec85a7/transformed/voyager-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/felipemz/.gradle/caches/transforms-4/05e40ad48b196d8954d77d87140a143f/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/felipemz/.gradle/caches/transforms-4/2371448cac550a304035b6072b2f97bb/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/felipemz/.gradle/caches/transforms-4/2f315ef0cca1f41688eaa592ee09b9df/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/felipemz/.gradle/caches/transforms-4/3aa439618ca0bd8430b206a800747fa9/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/felipemz/.gradle/caches/transforms-4/bbfc7b1312ed59232602e1aeab821aa7/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.0] /home/felipemz/.gradle/caches/transforms-4/23ff056fdb76601f020ae74d071d203c/transformed/core-bundle-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.13.0] /home/felipemz/.gradle/caches/transforms-4/4d0996a168f790c66d9f01ef444a3109/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/felipemz/.gradle/caches/transforms-4/4362200a470b9df6f51bb874884ef287/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/felipemz/.gradle/caches/transforms-4/19830619658ed53fb51658fee20d3e8f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/felipemz/.gradle/caches/transforms-4/9a9b6a7914f1501ec4c50af89f094b48/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/felipemz/.gradle/caches/transforms-4/e9dca5aace2db712befe9e7202b5bac0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/felipemz/.gradle/caches/transforms-4/97236dcd052198e4918d5be14a1df9f0/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/felipemz/.gradle/caches/transforms-4/8d8257cbd0345af1e0b56224a7be2e60/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/felipemz/.gradle/caches/transforms-4/bdd565c7c460834e009448098a00f5c6/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] /home/felipemz/.gradle/caches/transforms-4/f44bb2ecefe3a185edf30b9313eb442d/transformed/lifecycle-livedata-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /home/felipemz/.gradle/caches/transforms-4/e91115e9ad0e6d002b6e84a6b24ddc2c/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] /home/felipemz/.gradle/caches/transforms-4/ed959b681480f692ffc6af1eaea02d09/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /home/felipemz/.gradle/caches/transforms-4/55c01cb9fde5b5247a8d25545e7eca4d/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] /home/felipemz/.gradle/caches/transforms-4/204539f7e7d4bc9ab4bb2058287e9fc9/transformed/lifecycle-viewmodel-2.8.4/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /home/felipemz/.gradle/caches/transforms-4/46fcad147a85e15fc61402a5c3639c31/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/felipemz/.gradle/caches/transforms-4/c4d48b80596e578fb288db21dff91082/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] /home/felipemz/.gradle/caches/transforms-4/738b5345ab9ed48ed0897cc4804092f3/transformed/lifecycle-livedata-core-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /home/felipemz/.gradle/caches/transforms-4/a066107828319cae7eb08dece71403ef/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] /home/felipemz/.gradle/caches/transforms-4/f6398206adbcf8dffc0328e5781d1fb5/transformed/lifecycle-viewmodel-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.4] /home/felipemz/.gradle/caches/transforms-4/d2e951ef0375c69c37eaa87aa451c783/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/0391a947ffe99352664df75f3838cb4f/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.2] /home/felipemz/.gradle/caches/transforms-4/3c16bdedf846b019fa7d6fc04541869a/transformed/activity-ktx-1.9.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.2] /home/felipemz/.gradle/caches/transforms-4/45edd9309e7b44628342505fa1cc615d/transformed/activity-compose-1.9.2/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared] /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.11] /home/felipemz/.gradle/caches/transforms-4/e04da1cdf4486fa729412754a8fd09e8/transformed/library-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime-android:2.7.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/45406d15b93ab5e681c30f42a4a2c2c8/transformed/room-runtime-release/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/dfdcd40dd97c80cda3778926c001824e/transformed/sqlite-framework-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-android:2.5.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/b4fe424b66d1e44711a54df397579ab4/transformed/sqlite-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-bundled-android:2.5.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/980cac8131bb2f828d83a4316dc6fd2b/transformed/sqlite-bundled-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] /home/felipemz/.gradle/caches/transforms-4/3c22e988c4232307aa9312ca1f059ec5/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/3975af3703ba309c97b587de8d45044d/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/93f731fa0699c9a53fe022cfe259e527/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/felipemz/.gradle/caches/transforms-4/2aebdc92fdad23f8df8649439cdb15f8/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/felipemz/.gradle/caches/transforms-4/fb3545c60ccb7cb6105554659696464a/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/felipemz/.gradle/caches/transforms-4/617b720360c9380dc134dcbd4b50acb9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/felipemz/.gradle/caches/transforms-4/0c4a346b2190203d01c2e47e6785aa8b/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/felipemz/.gradle/caches/transforms-4/650388885aca5dcf73fbeb8b15870b31/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/felipemz/.gradle/caches/transforms-4/8cb72b3965e52760c96a6e880d111bba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/felipemz/.gradle/caches/transforms-4/70a598d875391dbe0f915214ec2ec513/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /home/felipemz/.gradle/caches/transforms-4/3c3a29892119eece46164c37053855b9/transformed/exifinterface-1.3.7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.1.1] /home/felipemz/.gradle/caches/transforms-4/c975413a827f4fbaa960ee0d71c1e969/transformed/multiplatform-settings-debug/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:6:5-23:19
+INJECTED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:6:5-23:19
+MERGED from [io.insert-koin:koin-android:4.0.0-RC2] /home/felipemz/.gradle/caches/transforms-4/d6d46139f585e07c39858a9a4469e14f/transformed/koin-android-4.0.0-RC2/AndroidManifest.xml:7:5-20
+MERGED from [io.insert-koin:koin-android:4.0.0-RC2] /home/felipemz/.gradle/caches/transforms-4/d6d46139f585e07c39858a9a4469e14f/transformed/koin-android-4.0.0-RC2/AndroidManifest.xml:7:5-20
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/794d3d547e43bb8673a9e5a460504611/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/794d3d547e43bb8673a9e5a460504611/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/felipemz/.gradle/caches/transforms-4/2371448cac550a304035b6072b2f97bb/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/felipemz/.gradle/caches/transforms-4/2371448cac550a304035b6072b2f97bb/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/felipemz/.gradle/caches/transforms-4/c4d48b80596e578fb288db21dff91082/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/felipemz/.gradle/caches/transforms-4/c4d48b80596e578fb288db21dff91082/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime-android:2.7.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/45406d15b93ab5e681c30f42a4a2c2c8/transformed/room-runtime-release/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.7.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/45406d15b93ab5e681c30f42a4a2c2c8/transformed/room-runtime-release/AndroidManifest.xml:23:5-29:19
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] /home/felipemz/.gradle/caches/transforms-4/3c22e988c4232307aa9312ca1f059ec5/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:23:5-33:19
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] /home/felipemz/.gradle/caches/transforms-4/3c22e988c4232307aa9312ca1f059ec5/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/felipemz/.gradle/caches/transforms-4/617b720360c9380dc134dcbd4b50acb9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/felipemz/.gradle/caches/transforms-4/617b720360c9380dc134dcbd4b50acb9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/felipemz/.gradle/caches/transforms-4/8cb72b3965e52760c96a6e880d111bba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/felipemz/.gradle/caches/transforms-4/8cb72b3965e52760c96a6e880d111bba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:11:9-72
+	android:name
+		ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:7:9-55
+activity#com.infolaft.composeApp.MainActivity
+ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:12:9-22:20
+	android:screenOrientation
+		ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:16:13-49
+	android:exported
+		ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:15:13-36
+	android:configChanges
+		ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:14:13-225
+	android:name
+		ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:13:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml
+INJECTED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml
+MERGED from [io.insert-koin:koin-android:4.0.0-RC2] /home/felipemz/.gradle/caches/transforms-4/d6d46139f585e07c39858a9a4469e14f/transformed/koin-android-4.0.0-RC2/AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-android:4.0.0-RC2] /home/felipemz/.gradle/caches/transforms-4/d6d46139f585e07c39858a9a4469e14f/transformed/koin-android-4.0.0-RC2/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-network-ktor-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/c86be1c4a3a1588bebe28814fcea7520/transformed/coil-network-ktor-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-network-ktor-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/c86be1c4a3a1588bebe28814fcea7520/transformed/coil-network-ktor-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-compose-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/1f673705f14cd781f1bb4a385124af01/transformed/coil-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-compose-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/1f673705f14cd781f1bb4a385124af01/transformed/coil-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/323d56096b09967ebfbea0c5f4e7f8bb/transformed/coil-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/323d56096b09967ebfbea0c5f4e7f8bb/transformed/coil-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-compose-core-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/ba2987463c5ccfdc8a0315bdf41d0b83/transformed/coil-compose-core-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-compose-core-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/ba2987463c5ccfdc8a0315bdf41d0b83/transformed/coil-compose-core-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-network-core-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/3677e68de420f2625efe3a15c715e4c2/transformed/coil-network-core-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-network-core-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/3677e68de420f2625efe3a15c715e4c2/transformed/coil-network-core-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-core-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/d88fb4569e2a2fca93f2de835969cb73/transformed/coil-core-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-core-android:3.0.0-alpha06] /home/felipemz/.gradle/caches/transforms-4/d88fb4569e2a2fca93f2de835969cb73/transformed/coil-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/felipemz/.gradle/caches/transforms-4/17a2412161659890eb72e03441ea0904/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/felipemz/.gradle/caches/transforms-4/17a2412161659890eb72e03441ea0904/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/felipemz/.gradle/caches/transforms-4/377f1d5e77144326f005be0fedc26f10/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/felipemz/.gradle/caches/transforms-4/377f1d5e77144326f005be0fedc26f10/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.2] /home/felipemz/.gradle/caches/transforms-4/3b595be032a2b53e497f6a3597a6d390/transformed/fragment-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.2] /home/felipemz/.gradle/caches/transforms-4/3b595be032a2b53e497f6a3597a6d390/transformed/fragment-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.2] /home/felipemz/.gradle/caches/transforms-4/d61ea007c1f4fa9403eac8f557462613/transformed/fragment-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.2] /home/felipemz/.gradle/caches/transforms-4/d61ea007c1f4fa9403eac8f557462613/transformed/fragment-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.2] /home/felipemz/.gradle/caches/transforms-4/1214195fc80a75a1e8fc4f4cd2c4ab31/transformed/activity-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.2] /home/felipemz/.gradle/caches/transforms-4/1214195fc80a75a1e8fc4f4cd2c4ab31/transformed/activity-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.11] /home/felipemz/.gradle/caches/transforms-4/321755c89324fef9fd3c8432c95283fe/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.11] /home/felipemz/.gradle/caches/transforms-4/321755c89324fef9fd3c8432c95283fe/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/5d2d78bca4370e6d3f7a3b164e2d67f5/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/5d2d78bca4370e6d3f7a3b164e2d67f5/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/c2be85b2ca84e7030c79e7a9671e0d28/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/c2be85b2ca84e7030c79e7a9671e0d28/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/b3b09946db771dfce8561f8cc1820616/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/b3b09946db771dfce8561f8cc1820616/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/5cb01b3cca2e1a0ad4aa09e94eaba990/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/5cb01b3cca2e1a0ad4aa09e94eaba990/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/0cf42963c302b53a5c47d128044eea0c/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/0cf42963c302b53a5c47d128044eea0c/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/e9fbffadf965d9b1df7fa2185bdff6d5/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/e9fbffadf965d9b1df7fa2185bdff6d5/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/27df553f67438efeaec4790ccb25de71/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/27df553f67438efeaec4790ccb25de71/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/4b51d91d94bb8cd8692b62c2a5689fac/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/4b51d91d94bb8cd8692b62c2a5689fac/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/1171c3cecd39dd4a206878b9750d0403/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/1171c3cecd39dd4a206878b9750d0403/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/36aa32ceb615004b07ccaf901188f21b/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/36aa32ceb615004b07ccaf901188f21b/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/de476189511dd346f4e68fae86cf8fdd/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/de476189511dd346f4e68fae86cf8fdd/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/f2a93df4ff9c2e66fe3c89e1d99e5bbd/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/f2a93df4ff9c2e66fe3c89e1d99e5bbd/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/794d3d547e43bb8673a9e5a460504611/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/794d3d547e43bb8673a9e5a460504611/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/cb9e19619acc8ae2a2d70bdd0cb20af4/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/cb9e19619acc8ae2a2d70bdd0cb20af4/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/b3d6d1669807e599f7f71945fc8d18c3/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/b3d6d1669807e599f7f71945fc8d18c3/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.34.0] /home/felipemz/.gradle/caches/transforms-4/1f254c36a3a1deffd8112323006ea423/transformed/accompanist-drawablepainter-0.34.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.34.0] /home/felipemz/.gradle/caches/transforms-4/1f254c36a3a1deffd8112323006ea423/transformed/accompanist-drawablepainter-0.34.0/AndroidManifest.xml:21:5-44
+MERGED from [cafe.adriel.voyager:voyager-transitions-android:1.1.0-beta02] /home/felipemz/.gradle/caches/transforms-4/1026cf50e6312b0e939a9d7f36b18e11/transformed/voyager-transitions-release/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-transitions-android:1.1.0-beta02] /home/felipemz/.gradle/caches/transforms-4/1026cf50e6312b0e939a9d7f36b18e11/transformed/voyager-transitions-release/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-tab-navigator-android:1.1.0-beta02] /home/felipemz/.gradle/caches/transforms-4/415e6eabeaea6dbe0659f9a9ca917f1f/transformed/voyager-tab-navigator-release/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-tab-navigator-android:1.1.0-beta02] /home/felipemz/.gradle/caches/transforms-4/415e6eabeaea6dbe0659f9a9ca917f1f/transformed/voyager-tab-navigator-release/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-navigator-android:1.1.0-beta02] /home/felipemz/.gradle/caches/transforms-4/c3293475f7ab9a289580f68e99be0b84/transformed/voyager-navigator-release/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-navigator-android:1.1.0-beta02] /home/felipemz/.gradle/caches/transforms-4/c3293475f7ab9a289580f68e99be0b84/transformed/voyager-navigator-release/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-core-android:1.1.0-beta02] /home/felipemz/.gradle/caches/transforms-4/d746645594aaa99507015d1413ec85a7/transformed/voyager-core-release/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-core-android:1.1.0-beta02] /home/felipemz/.gradle/caches/transforms-4/d746645594aaa99507015d1413ec85a7/transformed/voyager-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/felipemz/.gradle/caches/transforms-4/05e40ad48b196d8954d77d87140a143f/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/felipemz/.gradle/caches/transforms-4/05e40ad48b196d8954d77d87140a143f/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/felipemz/.gradle/caches/transforms-4/2371448cac550a304035b6072b2f97bb/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/felipemz/.gradle/caches/transforms-4/2371448cac550a304035b6072b2f97bb/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/felipemz/.gradle/caches/transforms-4/2f315ef0cca1f41688eaa592ee09b9df/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/felipemz/.gradle/caches/transforms-4/2f315ef0cca1f41688eaa592ee09b9df/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/felipemz/.gradle/caches/transforms-4/3aa439618ca0bd8430b206a800747fa9/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/felipemz/.gradle/caches/transforms-4/3aa439618ca0bd8430b206a800747fa9/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/felipemz/.gradle/caches/transforms-4/bbfc7b1312ed59232602e1aeab821aa7/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/felipemz/.gradle/caches/transforms-4/bbfc7b1312ed59232602e1aeab821aa7/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.0] /home/felipemz/.gradle/caches/transforms-4/23ff056fdb76601f020ae74d071d203c/transformed/core-bundle-debug/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.0] /home/felipemz/.gradle/caches/transforms-4/23ff056fdb76601f020ae74d071d203c/transformed/core-bundle-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/felipemz/.gradle/caches/transforms-4/4d0996a168f790c66d9f01ef444a3109/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/felipemz/.gradle/caches/transforms-4/4d0996a168f790c66d9f01ef444a3109/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/felipemz/.gradle/caches/transforms-4/4362200a470b9df6f51bb874884ef287/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/felipemz/.gradle/caches/transforms-4/4362200a470b9df6f51bb874884ef287/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/felipemz/.gradle/caches/transforms-4/19830619658ed53fb51658fee20d3e8f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/felipemz/.gradle/caches/transforms-4/19830619658ed53fb51658fee20d3e8f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/felipemz/.gradle/caches/transforms-4/9a9b6a7914f1501ec4c50af89f094b48/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/felipemz/.gradle/caches/transforms-4/9a9b6a7914f1501ec4c50af89f094b48/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/felipemz/.gradle/caches/transforms-4/e9dca5aace2db712befe9e7202b5bac0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/felipemz/.gradle/caches/transforms-4/e9dca5aace2db712befe9e7202b5bac0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/felipemz/.gradle/caches/transforms-4/97236dcd052198e4918d5be14a1df9f0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/felipemz/.gradle/caches/transforms-4/97236dcd052198e4918d5be14a1df9f0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/felipemz/.gradle/caches/transforms-4/8d8257cbd0345af1e0b56224a7be2e60/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/felipemz/.gradle/caches/transforms-4/8d8257cbd0345af1e0b56224a7be2e60/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/felipemz/.gradle/caches/transforms-4/bdd565c7c460834e009448098a00f5c6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/felipemz/.gradle/caches/transforms-4/bdd565c7c460834e009448098a00f5c6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] /home/felipemz/.gradle/caches/transforms-4/f44bb2ecefe3a185edf30b9313eb442d/transformed/lifecycle-livedata-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] /home/felipemz/.gradle/caches/transforms-4/f44bb2ecefe3a185edf30b9313eb442d/transformed/lifecycle-livedata-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /home/felipemz/.gradle/caches/transforms-4/e91115e9ad0e6d002b6e84a6b24ddc2c/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /home/felipemz/.gradle/caches/transforms-4/e91115e9ad0e6d002b6e84a6b24ddc2c/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] /home/felipemz/.gradle/caches/transforms-4/ed959b681480f692ffc6af1eaea02d09/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] /home/felipemz/.gradle/caches/transforms-4/ed959b681480f692ffc6af1eaea02d09/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /home/felipemz/.gradle/caches/transforms-4/55c01cb9fde5b5247a8d25545e7eca4d/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /home/felipemz/.gradle/caches/transforms-4/55c01cb9fde5b5247a8d25545e7eca4d/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] /home/felipemz/.gradle/caches/transforms-4/204539f7e7d4bc9ab4bb2058287e9fc9/transformed/lifecycle-viewmodel-2.8.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] /home/felipemz/.gradle/caches/transforms-4/204539f7e7d4bc9ab4bb2058287e9fc9/transformed/lifecycle-viewmodel-2.8.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /home/felipemz/.gradle/caches/transforms-4/46fcad147a85e15fc61402a5c3639c31/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /home/felipemz/.gradle/caches/transforms-4/46fcad147a85e15fc61402a5c3639c31/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/felipemz/.gradle/caches/transforms-4/c4d48b80596e578fb288db21dff91082/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/felipemz/.gradle/caches/transforms-4/c4d48b80596e578fb288db21dff91082/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] /home/felipemz/.gradle/caches/transforms-4/738b5345ab9ed48ed0897cc4804092f3/transformed/lifecycle-livedata-core-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] /home/felipemz/.gradle/caches/transforms-4/738b5345ab9ed48ed0897cc4804092f3/transformed/lifecycle-livedata-core-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /home/felipemz/.gradle/caches/transforms-4/a066107828319cae7eb08dece71403ef/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /home/felipemz/.gradle/caches/transforms-4/a066107828319cae7eb08dece71403ef/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] /home/felipemz/.gradle/caches/transforms-4/f6398206adbcf8dffc0328e5781d1fb5/transformed/lifecycle-viewmodel-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] /home/felipemz/.gradle/caches/transforms-4/f6398206adbcf8dffc0328e5781d1fb5/transformed/lifecycle-viewmodel-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.4] /home/felipemz/.gradle/caches/transforms-4/d2e951ef0375c69c37eaa87aa451c783/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.4] /home/felipemz/.gradle/caches/transforms-4/d2e951ef0375c69c37eaa87aa451c783/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/0391a947ffe99352664df75f3838cb4f/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/0391a947ffe99352664df75f3838cb4f/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] /home/felipemz/.gradle/caches/transforms-4/3c16bdedf846b019fa7d6fc04541869a/transformed/activity-ktx-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] /home/felipemz/.gradle/caches/transforms-4/3c16bdedf846b019fa7d6fc04541869a/transformed/activity-ktx-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] /home/felipemz/.gradle/caches/transforms-4/45edd9309e7b44628342505fa1cc615d/transformed/activity-compose-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] /home/felipemz/.gradle/caches/transforms-4/45edd9309e7b44628342505fa1cc615d/transformed/activity-compose-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.11] /home/felipemz/.gradle/caches/transforms-4/e04da1cdf4486fa729412754a8fd09e8/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.11] /home/felipemz/.gradle/caches/transforms-4/e04da1cdf4486fa729412754a8fd09e8/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/45406d15b93ab5e681c30f42a4a2c2c8/transformed/room-runtime-release/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/45406d15b93ab5e681c30f42a4a2c2c8/transformed/room-runtime-release/AndroidManifest.xml:21:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/dfdcd40dd97c80cda3778926c001824e/transformed/sqlite-framework-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/dfdcd40dd97c80cda3778926c001824e/transformed/sqlite-framework-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/b4fe424b66d1e44711a54df397579ab4/transformed/sqlite-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/b4fe424b66d1e44711a54df397579ab4/transformed/sqlite-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-bundled-android:2.5.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/980cac8131bb2f828d83a4316dc6fd2b/transformed/sqlite-bundled-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-bundled-android:2.5.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/980cac8131bb2f828d83a4316dc6fd2b/transformed/sqlite-bundled-release/AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] /home/felipemz/.gradle/caches/transforms-4/3c22e988c4232307aa9312ca1f059ec5/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:21:5-44
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] /home/felipemz/.gradle/caches/transforms-4/3c22e988c4232307aa9312ca1f059ec5/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/3975af3703ba309c97b587de8d45044d/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/3975af3703ba309c97b587de8d45044d/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/93f731fa0699c9a53fe022cfe259e527/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/93f731fa0699c9a53fe022cfe259e527/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/felipemz/.gradle/caches/transforms-4/2aebdc92fdad23f8df8649439cdb15f8/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/felipemz/.gradle/caches/transforms-4/2aebdc92fdad23f8df8649439cdb15f8/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/felipemz/.gradle/caches/transforms-4/fb3545c60ccb7cb6105554659696464a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/felipemz/.gradle/caches/transforms-4/fb3545c60ccb7cb6105554659696464a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/felipemz/.gradle/caches/transforms-4/617b720360c9380dc134dcbd4b50acb9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/felipemz/.gradle/caches/transforms-4/617b720360c9380dc134dcbd4b50acb9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/felipemz/.gradle/caches/transforms-4/0c4a346b2190203d01c2e47e6785aa8b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/felipemz/.gradle/caches/transforms-4/0c4a346b2190203d01c2e47e6785aa8b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/felipemz/.gradle/caches/transforms-4/650388885aca5dcf73fbeb8b15870b31/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/felipemz/.gradle/caches/transforms-4/650388885aca5dcf73fbeb8b15870b31/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/felipemz/.gradle/caches/transforms-4/8cb72b3965e52760c96a6e880d111bba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/felipemz/.gradle/caches/transforms-4/8cb72b3965e52760c96a6e880d111bba/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/felipemz/.gradle/caches/transforms-4/70a598d875391dbe0f915214ec2ec513/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/felipemz/.gradle/caches/transforms-4/70a598d875391dbe0f915214ec2ec513/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /home/felipemz/.gradle/caches/transforms-4/3c3a29892119eece46164c37053855b9/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /home/felipemz/.gradle/caches/transforms-4/3c3a29892119eece46164c37053855b9/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.1.1] /home/felipemz/.gradle/caches/transforms-4/c975413a827f4fbaa960ee0d71c1e969/transformed/multiplatform-settings-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.1.1] /home/felipemz/.gradle/caches/transforms-4/c975413a827f4fbaa960ee0d71c1e969/transformed/multiplatform-settings-debug/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/felipemz/AndroidStudioProjects/InfolaftAppkmp/composeApp/src/androidMain/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/794d3d547e43bb8673a9e5a460504611/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/794d3d547e43bb8673a9e5a460504611/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] /home/felipemz/.gradle/caches/transforms-4/794d3d547e43bb8673a9e5a460504611/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/felipemz/.gradle/caches/transforms-4/2371448cac550a304035b6072b2f97bb/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/felipemz/.gradle/caches/transforms-4/c4d48b80596e578fb288db21dff91082/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/felipemz/.gradle/caches/transforms-4/c4d48b80596e578fb288db21dff91082/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:24:9-32:20
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] /home/felipemz/.gradle/caches/transforms-4/3c22e988c4232307aa9312ca1f059ec5/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:24:9-32:20
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] /home/felipemz/.gradle/caches/transforms-4/3c22e988c4232307aa9312ca1f059ec5/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/felipemz/.gradle/caches/transforms-4/617b720360c9380dc134dcbd4b50acb9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/felipemz/.gradle/caches/transforms-4/617b720360c9380dc134dcbd4b50acb9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/felipemz/.gradle/caches/transforms-4/2371448cac550a304035b6072b2f97bb/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/felipemz/.gradle/caches/transforms-4/2371448cac550a304035b6072b2f97bb/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/felipemz/.gradle/caches/transforms-4/2371448cac550a304035b6072b2f97bb/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/felipemz/.gradle/caches/transforms-4/2371448cac550a304035b6072b2f97bb/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/felipemz/.gradle/caches/transforms-4/2371448cac550a304035b6072b2f97bb/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/felipemz/.gradle/caches/transforms-4/2371448cac550a304035b6072b2f97bb/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/felipemz/.gradle/caches/transforms-4/2371448cac550a304035b6072b2f97bb/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.infolaft.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.infolaft.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/felipemz/.gradle/caches/transforms-4/cb006510abfd6c2e4fa4e100efbe6e5f/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/felipemz/.gradle/caches/transforms-4/c4d48b80596e578fb288db21dff91082/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/felipemz/.gradle/caches/transforms-4/c4d48b80596e578fb288db21dff91082/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/felipemz/.gradle/caches/transforms-4/c4d48b80596e578fb288db21dff91082/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime-android:2.7.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/45406d15b93ab5e681c30f42a4a2c2c8/transformed/room-runtime-release/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime-android:2.7.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/45406d15b93ab5e681c30f42a4a2c2c8/transformed/room-runtime-release/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime-android:2.7.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/45406d15b93ab5e681c30f42a4a2c2c8/transformed/room-runtime-release/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime-android:2.7.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/45406d15b93ab5e681c30f42a4a2c2c8/transformed/room-runtime-release/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime-android:2.7.0-alpha08] /home/felipemz/.gradle/caches/transforms-4/45406d15b93ab5e681c30f42a4a2c2c8/transformed/room-runtime-release/AndroidManifest.xml:25:13-74
+meta-data#com.russhwolf.settings.SettingsInitializer
+ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] /home/felipemz/.gradle/caches/transforms-4/3c22e988c4232307aa9312ca1f059ec5/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] /home/felipemz/.gradle/caches/transforms-4/3c22e988c4232307aa9312ca1f059ec5/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] /home/felipemz/.gradle/caches/transforms-4/3c22e988c4232307aa9312ca1f059ec5/transformed/multiplatform-settings-no-arg-debug/AndroidManifest.xml:30:17-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/felipemz/.gradle/caches/transforms-4/8629334fb0e17791fc2b394f5d4c3108/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
